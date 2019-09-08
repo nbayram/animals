@@ -1,3 +1,5 @@
 monkey
 donkey
 elephant
+zebra
+giraffe
